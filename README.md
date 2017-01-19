@@ -4,15 +4,15 @@
 
 - ScreenShoot:
 
-1. 
+1.
 
 <img src="https://github.com/Dheaayuang/Intent1/blob/master/Intent1_1.png">
 
-2. 
+2.
 
 <img src="https://github.com/Dheaayuang/Intent1/blob/master/Intent1_2.png">
 
-3. 
+3.
 
 <img src="https://github.com/Dheaayuang/Intent1/blob/master/Intent1_3.png">
 
